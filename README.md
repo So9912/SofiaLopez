@@ -5,8 +5,7 @@
 ---
 
  <div id="header" align="left">
-   
-<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=FranciscoMarin29.Francisco&color=00cf00" alt=""/>
+  
 <h1>
   Hola soy Sofia. ¡Encantada de conocerte!
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -26,7 +25,7 @@ Amante de la tecnología y entusiasta de comenzar mi carrera profesional como Da
 * :heartbeat: Me encanta el desafío de descubrir nuevas formas de escribir código para automatizar mi trabajo, ya que me apasiona la lógica de programación. Disfruto especialmente al aplicar estas habilidades para tomar decisiones más informadas y crear visualizaciones que faciliten la comprensión de datos complejos. La capacidad de optimizar procesos mediante la automatización y la visualización me permite mejorar continuamente mi enfoque y hacer que las decisiones sean más claras y eficaces. :male_detective:
 
 
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sofia-lópez-pavón-2a1982102/)
+* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofia-lópez-pavón-2a1982102/)
 
 * :e-mail: sofi_lopez@outlook.com
 
